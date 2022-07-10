@@ -1,0 +1,15 @@
+{
+  "name": "kami-neko",
+  "version": "1.0.0",
+  "description": "Kurai Neko's form to graciously bestow actions upon Nashi.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Millsville22",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
